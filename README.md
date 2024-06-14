@@ -10,10 +10,10 @@ I'm a passionate Product Security Expert and Senior Development Engineer with a 
 
 ## My Projects
 Here are some of the projects I'm currently working on:
-- [AI Projects](Link to AI Projects)
-- [Space Computing Projects](Link to Space Computing Projects)
-- [Software Development Projects](Link to Software Development Projects)
-- [Information Security Projects](Link to Information Security Projects)
+- [AI Projects]
+- [Space Computing Projects]
+- [Software Development Projects]
+- [Information Security Projects]
 
 Feel free to explore these projects and contribute if you're interested!
 
